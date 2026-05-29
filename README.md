@@ -1,4 +1,4 @@
-# Custom GPT Roles
+# Gems & GPTs
 
 A collection of detailed system prompts for ChatGPT, Gemini Gems, and other AI assistants — each one designed to behave like a real expert in their field.
 

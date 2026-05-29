@@ -60,6 +60,8 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | Paywall Strategist | Monetization and paywall conversion optimization | [view](paywall-strategist.md) |
 | App Review Responder | Empathetic and professional App Store review replies | [view](app-review-responder.md) |
 | Release Notes Writer | Engaging and brand-aligned app changelogs | [view](release-notes-writer.md) |
+| UX Writer | Clear, concise mobile micro-copy, push notifications, and empty states | [view](ux-writer.md) |
+| iOS Design Mentor | iOS layout critique, design systems, and Apple HIG compliance | [view](ios-design-mentor.md) |
 
 ---
 

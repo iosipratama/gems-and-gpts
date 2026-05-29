@@ -56,6 +56,10 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | MVP Scoper | Trim your idea to the smallest version worth building | [view](mvp-scoper.md) |
 | Technical Writer | Developer docs, READMEs, and API documentation | [view](technical-writer.md) |
 | Islamic Finance Advisor | Halal investing, Shariah-compliant finance, and zakat guidance | [view](islamic-finance-advisor.md) |
+| ASO Specialist | App Store Optimization — keywords, subtitles, and description strategy | [view](aso-specialist.md) |
+| Paywall Strategist | Monetization and paywall conversion optimization | [view](paywall-strategist.md) |
+| App Review Responder | Empathetic and professional App Store review replies | [view](app-review-responder.md) |
+| Release Notes Writer | Engaging and brand-aligned app changelogs | [view](release-notes-writer.md) |
 
 ---
 

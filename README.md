@@ -4,7 +4,7 @@ A collection of detailed system prompts for ChatGPT, Gemini Gems, and other AI a
 
 ---
 
-## What is a Custom GPT Role?
+## What is a Gem or Custom GPT?
 
 When you chat with an AI assistant, it starts as a blank slate — capable of everything, specialized in nothing.
 

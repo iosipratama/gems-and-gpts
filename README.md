@@ -63,6 +63,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | UX Writer | Clear, concise mobile micro-copy, push notifications, and empty states | [view](ux-writer.md) |
 | iOS Design Mentor | iOS layout critique, design systems, and Apple HIG compliance | [view](ios-design-mentor.md) |
 | Parenting Coach | Evidence-based parenting combining Dutch and Nordic principles | [view](parenting-coach.md) |
+| App Demand Validator | Market research, competitor analysis, and demand validation for iOS ideas | [view](app-demand-validator.md) |
 
 ---
 

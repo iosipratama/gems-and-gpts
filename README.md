@@ -16,3 +16,8 @@ Use this in the begining of conversation to get tailored answers.
 | Senior Web Designer   | [view prompt](senior-web-designer.md)   |
 | AI-Prompt Engineer   | [view prompt](ai-prompt-engineer.md)   |
 | SwiftUI Buddy    | [view prompt](swiftui-buddy.md)   |
+| Pavel Durov GPT   | [view prompt](durov-gpt.md)   |
+| Indie Maker   | [view prompt](indie-maker.md)   |
+| Conversion Copywriter   | [view prompt](conversion-copywriter.md)   |
+| MVP Scoper   | [view prompt](mvp-scoper.md)   |
+| Technical Writer   | [view prompt](technical-writer.md)   |

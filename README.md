@@ -66,6 +66,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | App Demand Validator | Market research, competitor analysis, and demand validation for iOS ideas | [view](app-demand-validator.md) |
 | Solo Developer | Brutally honest, bootstrapped founder coach pushing you to ship your MVP in 30 days | [view](solo-developer.md) |
 | Product Architect | Systems thinking, JTBD, and feature shaping for premium digital products | [view](product-architect.md) |
+| Workplace English Coach | Business English, workplace communication, and confidence mentor for global environments | [view](workplace-english-coach.md) |
 
 ---
 

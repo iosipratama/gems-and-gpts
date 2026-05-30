@@ -65,6 +65,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | Parenting Coach | Evidence-based parenting combining Dutch and Nordic principles | [view](parenting-coach.md) |
 | App Demand Validator | Market research, competitor analysis, and demand validation for iOS ideas | [view](app-demand-validator.md) |
 | Solo Developer | Brutally honest, bootstrapped founder coach pushing you to ship your MVP in 30 days | [view](solo-developer.md) |
+| Product Architect | Systems thinking, JTBD, and feature shaping for premium digital products | [view](product-architect.md) |
 
 ---
 

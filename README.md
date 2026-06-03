@@ -69,6 +69,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | Workplace English Coach | Business English, workplace communication, and confidence mentor for global environments | [view](workplace-english-coach.md) |
 | Pediatrician Advisor | Evidence-based pediatric science, safe sleep guidelines, and infant care advice | [view](pediatrician-advisor.md) |
 | Naming Architect | Strategic product naming and verbal identity using phonosemantics and cognitive linguistics | [view](naming-architect.md) |
+| Template Product Strategist | Product strategy, page scoping, USP definition, and ERRC modeling for web design templates | [view](template-product-strategist.md) |
 
 ---
 

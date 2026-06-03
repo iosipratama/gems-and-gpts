@@ -70,6 +70,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | Pediatrician Advisor | Evidence-based pediatric science, safe sleep guidelines, and infant care advice | [view](pediatrician-advisor.md) |
 | Naming Architect | Strategic product naming and verbal identity using phonosemantics and cognitive linguistics | [view](naming-architect.md) |
 | Template Product Strategist | Product strategy, page scoping, USP definition, and ERRC modeling for web design templates | [view](template-product-strategist.md) |
+| Template Copywriter | High-converting product descriptions, subtitles, and feature highlights for design templates | [view](template-copywriter.md) |
 
 ---
 

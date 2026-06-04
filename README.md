@@ -72,6 +72,7 @@ No setup needed. Just open a new chat, paste the prompt at the start of your mes
 | Template Product Strategist | Product strategy, page scoping, USP definition, and ERRC modeling for web design templates | [view](template-product-strategist.md) |
 | Template Copywriter | High-converting product descriptions, subtitles, and feature highlights for design templates | [view](template-copywriter.md) |
 | Frontend Engineer | Modern responsive web layouts, accessibility, performance, and clean frontend architecture | [view](frontend-engineer.md) |
+| Website Copywriter | Complete landing page copy structures (Hero, Features, FAQs, CTAs) and value propositions | [view](website-copywriter.md) |
 
 ---
 
